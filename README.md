@@ -392,7 +392,7 @@ That's it! Animations are no longer required.
 ## Using A Custom Toast
 
 Create your toast component extending Toast see the demo's pink toast for an example
-https://github.com/scttcper/ngx-toastr/blob/master/src/app/pink.toast.ts
+https://github.com/abhijeetr7/ngx-toastr/blob/master/src/app/pink.toast.ts
 
 ```typescript
 import { ToastrModule } from 'ngx-toastr';
@@ -422,11 +422,11 @@ ngOnInit() {
 ```
 
 2.  Change default icons (check, warning sign, etc)\
-    Overwrite the css background-image: https://github.com/scttcper/ngx-toastr/blob/master/src/lib/toastr.css.
+    Overwrite the css background-image: https://github.com/abhijeetr7/ngx-toastr/blob/master/src/lib/toastr.css.
 3.  How do I use this in an ErrorHandler?\
-    See: https://github.com/scttcper/ngx-toastr/issues/179.
+    See: https://github.com/abhijeetr7/ngx-toastr/issues/179.
 4.  How can I translate messages?\
-    See: https://github.com/scttcper/ngx-toastr/issues/201.
+    See: https://github.com/abhijeetr7/ngx-toastr/issues/201.
 5.  How to handle toastr click/tap action?
     ```ts
     showToaster() {
@@ -445,13 +445,8 @@ ngOnInit() {
     ```ts
     toastClass: 'yourclass ngx-toastr'
     ```
-    See: https://github.com/scttcper/ngx-toastr/issues/594.
+    See: https://github.com/abhijeetr7/ngx-toastr/issues/594.
 
-## Previous Works
-
-[toastr](https://github.com/CodeSeven/toastr) original toastr\
-[angular-toastr](https://github.com/Foxandxss/angular-toastr) AngularJS toastr\
-[notyf](https://github.com/caroso1222/notyf) notyf (css)
 
 ## License
 
@@ -459,5 +454,5 @@ MIT
 
 ---
 
-> GitHub [@scttcper](https://github.com/scttcper) &nbsp;&middot;&nbsp;
-> Twitter [@scttcper](https://twitter.com/scttcper)
+> GitHub [@Abhijeetr7](https://github.com/abhijeetr7) &nbsp;&middot;&nbsp;
+
